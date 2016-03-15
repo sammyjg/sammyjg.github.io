@@ -27,8 +27,14 @@ li {
     background-image:url(http://www.productionparadise.com/newsletters/353/photos/26414/original/street-soccer-2010-shot-09.jpg);
     background-size: cover;
     position: relative;
+    height:100vh;
 }
 
 p {
     font-size: 22px;
+}
+a {
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 700;
 }
