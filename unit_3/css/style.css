@@ -1,3 +1,13 @@
+body {
+    color: #458B00;
+}
+h1 {
+    color:#FFA500;
+}
+#slogan {
+    color:#FFA500;
+    font-style: italic;
+}
 ul {
     list-style-type:none;
     margin: 0;
@@ -12,4 +22,11 @@ li {
     font-family: Georgia, serif;
     float: right;
     padding: 12px 14px;
+}
+.hero img {
+    background-size: cover;
+}
+
+.hero p {
+    font-size: 22px;
 }
