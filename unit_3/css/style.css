@@ -23,10 +23,12 @@ li {
     float: right;
     padding: 12px 14px;
 }
-.hero img {
+#hero {
+    background-image:url(http://www.productionparadise.com/newsletters/353/photos/26414/original/street-soccer-2010-shot-09.jpg);
     background-size: cover;
+    position: relative;
 }
 
-.hero p {
+p {
     font-size: 22px;
 }
