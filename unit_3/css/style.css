@@ -1,12 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 body {
-    background-color: #458B00;
+    background-color: #fff;
 }
 h1 {
     color:#FFA500;
 }
 #slogan {
     color:#FFA500;
-    font-style: italic;
+    font-family: 'Droid Serif', serif;
+
 }
 ul {
     list-style-type:none;
@@ -32,10 +35,11 @@ li {
 
 #hero p {
     font-size: 22px;
-    padding-top: 50px;
-    padding-right:75px;
-    padding-left:10px;
-    padding-bottom: 25px; 
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: ;
+    padding-right:;
+    padding-left:;
+    padding-bottom:; 
 }
 a {
     text-decoration: none;
