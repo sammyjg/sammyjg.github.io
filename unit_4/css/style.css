@@ -1,5 +1,5 @@
 body {
-    background-color: #458B00;
+    color: #458B00;
 }
 h1 {
     color:#FFA500;
@@ -30,12 +30,8 @@ li {
     height:100vh;
 }
 
-#hero p {
+p {
     font-size: 22px;
-    padding-top: 50px;
-    padding-right:75px;
-    padding-left:10px;
-    padding-bottom: 25px; 
 }
 a {
     text-decoration: none;
