@@ -1,14 +1,15 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Khand);
+@import url(https://fonts.googleapis.com/css?family=Rubik+Mono+One);
+
 body {
-    background-color: #fff;
-}
-h1 {
-    color:#FFA500;
+    background-color: #000;
 }
 #slogan {
     color:#FFA500;
     font-family: 'Droid Serif', serif;
+    font-style: italic; 
 
 }
 ul {
@@ -17,7 +18,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color:#555;
-    font-size: 23px;
+    font-size: 25px;
 }
 li {
     display: inline;
@@ -32,14 +33,39 @@ li {
     position: relative;
     height:100vh;
 }
-
-#hero p {
+#container {
+    width:500px;
+    padding-top: 85px; 
+    padding-right:50px;
+    padding-left: 50px;
+    padding-bottom: 50px; 
+}
+#container h1 {
+    color:#FFA500;
+    font-family: 'Khand', sans-serif;
+    text-align: center;
+}
+#container p {
+    color: #fff;
     font-size: 22px;
     font-family: 'Roboto Condensed', sans-serif;
-    padding-top: ;
-    padding-right:;
-    padding-left:;
-    padding-bottom:; 
+    text-align: justify;
+
+}
+.button {
+    display:block;
+    height: 50px;
+    width: 150px;
+    background:#61B329;
+    border: 2px solid black;
+    color:rgba(0, 0, 0, .75);
+    text-align: center;
+    font-family: 'Rubik Mono One', sans-serif;
+    line-height: 50px;
+    border-radius: 25px;
+}
+.button a {
+    text-decoration: none;
 }
 a {
     text-decoration: none;
