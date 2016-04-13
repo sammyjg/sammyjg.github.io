@@ -1,0 +1,11 @@
+span {
+	font-style: italic;
+	text-transform: uppercase;
+}
+#aside p {
+	padding: 85px 50px 50px 50px;
+}
+.middle {
+	width:400px;
+	height:200px;
+}
