@@ -85,6 +85,10 @@ nav img {
 	width:30%;
 	float:right;
 }
+footer {
+	position: absolute;
+	background-color:#61B329; 
+}
 #social {
 	color: #fff;
 }
