@@ -7,10 +7,11 @@ body {
 	background-color: #000;
 }
 nav {
+	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color:#555;
+	background-color:#000;
 }
 nav a {
 	text-decoration: none;
@@ -19,14 +20,15 @@ nav a {
 	font-family: Georgia, Serif;
 	float:right;
 	font-size: 25px;
+	padding: 14px 16px;
 }
 .clearfix:after {
 	visibility: hidden;
 	display: block;
 	clear: both;
 }
-a:hover {
-	background-color: ;
+nav a:hover {
+	background-color: #61B329;
 }
 
 #hero {
