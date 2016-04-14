@@ -31,17 +31,18 @@ nav a {
 nav a:hover {
 	background-color: #61B329;
 }
+#donate {
+	background-color: #61B329;
+	font-family: 'Rubik Mono One', sans-serif;
+	font-size: 45px;
+}
 nav img {
 	float:left;
 	display:inline;
 	height:63px;
-	width:650px;
+	width:600px;
 }
-#slogan {
-	color:#FFA500;
-    font-family: 'Droid Serif', serif;
-    font-style: italic; 
-}
+
 #hero {
 	background-image: url(http://www.productionparadise.com/newsletters/353/photos/26414/original/street-soccer-2010-shot-09.jpg);
 	background-size: cover;
