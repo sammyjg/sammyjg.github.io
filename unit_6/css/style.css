@@ -30,12 +30,11 @@ nav a {
 nav a:hover {
 	background-color: #61B329;
 }
-
 #hero {
 	background-image: url(http://www.productionparadise.com/newsletters/353/photos/26414/original/street-soccer-2010-shot-09.jpg);
 	background-size: cover;
 	position: relative;
-	height: 80vh;
+	height: 60vh;
 }
 #container {
 	width: 500px;
@@ -45,6 +44,12 @@ nav a:hover {
 	color: #FFE2B8;
 	font-family: 'Khand', sans-serif;
 	text-align: center;
+	font-size: 40px;
+}
+#container p {
+	font-size: 25px;
+	color: #fff;
+	text-align: justify;
 }
 .button {
     display:block;
@@ -58,6 +63,7 @@ nav a:hover {
     font-family: 'Rubik Mono One', sans-serif;
     line-height: 50px;
     border-radius: 25px;
+    padding-right: 20px;
 }
 .button a {
     text-decoration: none;
