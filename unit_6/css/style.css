@@ -3,21 +3,22 @@
 @import url(https://fonts.googleapis.com/css?family=Khand);
 @import url(https://fonts.googleapis.com/css?family=Rubik+Mono+One);
 
-body{
-	background-color: #fff;
+body {
+	background-color: #000;
 }
 nav {
-	list-style-type: none;
-	text-decoration: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color:#;
-	font-size: 25px;
+	background-color:#555;
+}
+nav a {
+	text-decoration: none;
 	display: inline;
 	color: #fff;
 	font-family: Georgia, Serif;
 	float:right;
+	font-size: 25px;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -27,9 +28,7 @@ nav {
 a:hover {
 	background-color: ;
 }
-nav a {
-	text-transform: capitalize;
-}
+
 #hero {
 	background-image: url(http://www.productionparadise.com/newsletters/353/photos/26414/original/street-soccer-2010-shot-09.jpg);
 	background-size: cover;
