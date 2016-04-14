@@ -64,6 +64,8 @@ nav img {
 	color: #fff;
 	text-align: justify;
 }
-#container form {
-	width:35px;
+#container form p {
+	font-size: 16px;
+	color: #61B329;
+	font-family: 'Rubik Mono One', sans-serif; 
 }
