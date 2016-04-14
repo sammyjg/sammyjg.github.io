@@ -33,6 +33,9 @@ nav a:hover {
 }
 nav img {
 	float:left;
+	display:inline;
+	height:#;
+	width:75px;
 }
 #slogan {
 	color:#FFA500;
