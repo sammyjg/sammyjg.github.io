@@ -31,9 +31,8 @@ nav a {
 nav a:hover {
 	background-color: #61B329;
 }
-header img {
-	height: 1em; 
-	width: 1em;
+nav img {
+	float:left;
 }
 #slogan {
 	color:#FFA500;
