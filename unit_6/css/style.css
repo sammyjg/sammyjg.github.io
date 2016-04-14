@@ -15,6 +15,7 @@ nav {
 }
 nav a {
 	text-decoration: none;
+	text-transform: capitalize;
 	display: inline;
 	color: #fff;
 	font-family: Georgia, Serif;
@@ -30,11 +31,20 @@ nav a {
 nav a:hover {
 	background-color: #61B329;
 }
+header img {
+	height: 1em; 
+	width: 1em;
+}
+#slogan {
+	color:#FFA500;
+    font-family: 'Droid Serif', serif;
+    font-style: italic; 
+}
 #hero {
 	background-image: url(http://www.productionparadise.com/newsletters/353/photos/26414/original/street-soccer-2010-shot-09.jpg);
 	background-size: cover;
 	position: relative;
-	height: 60vh;
+	height: 80vh;
 }
 #container {
 	width: 500px;
@@ -63,7 +73,7 @@ nav a:hover {
     font-family: 'Rubik Mono One', sans-serif;
     line-height: 50px;
     border-radius: 25px;
-    padding-right: 20px;
+    margin: 0 auto;
 }
 .button a {
     text-decoration: none;
