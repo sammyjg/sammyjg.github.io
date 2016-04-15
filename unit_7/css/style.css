@@ -1,0 +1,127 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+@import url(https://fonts.googleapis.com/css?family=Khand);
+@import url(https://fonts.googleapis.com/css?family=Rubik+Mono+One);
+
+body {
+	background-color: #000;
+}
+nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:#000;
+}
+nav a {
+	text-decoration: none;
+	text-transform: capitalize;
+	display: inline;
+	color: #fff;
+	font-family: Georgia, Serif;
+	float:right;
+	font-size: 25px;
+	padding: 14px 16px;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	clear: both;
+}
+nav a:hover {
+	background-color: #61B329;
+}
+#donate {
+	background-color: #61B329;
+	font-family: 'Rubik Mono One', sans-serif;
+	font-size: 30px;
+	padding: 15px;
+}
+nav img {
+	float:left;
+	display:inline-block;
+	max-width: 500px;
+	max-height: 80px;
+	height:auto;
+	width:auto;
+}
+
+#hero {
+	background-image: url(http://www.productionparadise.com/newsletters/353/photos/26414/original/street-soccer-2010-shot-09.jpg);
+	background-size: cover;
+	position: relative;
+	height: 80vh;
+}
+#container {
+	width: 500px;
+	padding: 50px;
+}
+#container h1 {
+	color: #FFE2B8;
+	font-family: 'Khand', sans-serif;
+	text-align: center;
+	font-size: 40px;
+}
+#container p {
+	font-size: 25px;
+	color: #fff;
+	text-align: justify;
+}
+#container form {
+	margin:auto;
+}
+#container form p {
+	font-size: 20px;
+	color: #61B329;
+	font-family: 'Rubik Mono One', sans-serif; 
+}
+#three_column {
+	background-color: #fff;
+	border: 1px white solid;
+	padding: 20px;
+}
+#left {
+	background-color: #000;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+#left img {
+	max-height: 200px;
+	max-width: 200px;
+	height: auto;
+	width: auto;
+}
+#center {
+	background-color:#;
+	border: 1px white solid;
+	padding: 20px;
+	width: 30%;
+	float: left;
+	display: inline-block;
+}
+#right {
+	background-color: #000;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
+.clearfix:after {
+	visibility: hidden;
+	display:block;
+	font-size:0;
+	content: " ";
+	clear:both;
+	height:0;
+}
+footer {
+	position: absolute;
+	background-color:#61B329;
+	width: 98%; 
+}
+#social {
+	color: #fff;
+}
+
