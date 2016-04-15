@@ -40,8 +40,10 @@ nav a:hover {
 nav img {
 	float:left;
 	display:inline-block;
-	height:75px;
-	width:600px;
+	max-width: 500px;
+	max-height: 80px;
+	height:auto;
+	width:auto;
 }
 
 #hero {
@@ -73,17 +75,25 @@ nav img {
 	color: #61B329;
 	font-family: 'Rubik Mono One', sans-serif; 
 }
-#column1 {
-	width: 30%;
-	float:left;
+#three_column {
+	background-color: #FFB7CF;
+	border: 1px white solid;
+	padding: 20px;
 }
-#column2 {
-	width:30%;
-	display:inline-block;
+#left {
+	background-color: #E582A2;
+	border: 1px white solid;
+	padding: 20px;
 }
-#column3 {
-	width:30%;
-	float:right;
+#center {
+	background-color:#;
+	border: 1px white solid;
+	padding: 20px;
+}
+#right {
+	background-color: #e55b88;
+	border: 1px white solid;
+	padding: 20px;
 }
 footer {
 	position: absolute;
