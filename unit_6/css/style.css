@@ -92,13 +92,14 @@ nav img {
 	border: 1px white solid;
 	padding: 20px;
 	width: 30%;
+	float: center;
 }
 #right {
 	background-color: #e55b88;
 	border: 1px white solid;
 	padding: 20px;
 	float: right;
-	width: 30px;
+	width: 30%;
 }
 .clearfix:after {
 	visibility: hidden;
