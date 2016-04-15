@@ -76,27 +76,27 @@ nav img {
 	font-family: 'Rubik Mono One', sans-serif; 
 }
 #three_column {
-	background-color: #FFB7CF;
+	background-color: #fff;
 	border: 1px white solid;
 	padding: 20px;
 }
 #left {
-	background-color: #E582A2;
-	border: 1px white solid;
+	background-color: violet;
+	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 45%;
 }
 #left img {
-	height: 1em;
-	width: 1em;
+	height: 4em;
+	width: 4em;
 }
 #right {
-	background-color: #e55b88;
-	border: 1px white solid;
+	background-color: pink;
+	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 30%;
+	width: 45%;
 }
 .clearfix:after {
 	visibility: hidden;
@@ -108,7 +108,8 @@ nav img {
 }
 footer {
 	position: absolute;
-	background-color:#61B329; 
+	background-color:#61B329;
+	width: 100%; 
 }
 #social {
 	color: #fff;
