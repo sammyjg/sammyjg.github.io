@@ -84,16 +84,21 @@ nav img {
 	background-color: #E582A2;
 	border: 1px white solid;
 	padding: 20px;
+	float: left;
+	width: 30%;
 }
 #center {
 	background-color:#;
 	border: 1px white solid;
 	padding: 20px;
+	width: 30%;
 }
 #right {
 	background-color: #e55b88;
 	border: 1px white solid;
 	padding: 20px;
+	float: right;
+	width: 30px;
 }
 footer {
 	position: absolute;
