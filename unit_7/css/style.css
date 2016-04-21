@@ -86,13 +86,16 @@ nav img {
 	padding: 20px;
 	float: left;
 	width: 28%;
+	padding: 1em 2em;
 }
 #left img {
 	max-height: 300px;
 	max-width: 300px;
 	height: auto;
 	width: auto;
-	padding: 1em 2em;
+}
+#left h3 {
+	color:#fff;
 }
 #left p {
 	color:#fff;
@@ -106,6 +109,9 @@ nav img {
 	float: left;
 	display: inline-block;
 }
+#center h3{
+	color: #fff;
+}
 #center p {
 	color:#fff;
 	font-size: 20px;
@@ -118,6 +124,9 @@ nav img {
 	float: right;
 	width: 28%;
 	padding: 1em 2em;
+}
+#right h3 {
+	color:#fff;
 }
 #right p {
 	color: #fff;
