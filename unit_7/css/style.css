@@ -76,12 +76,12 @@ nav img {
 	font-family: 'Rubik Mono One', sans-serif; 
 }
 #three_column {
-	background-color: #696969;
+	background-color: #000;
 	border: 1px black solid;
 	padding: 20px;
 }
 #left {
-	background-color: #000;
+	background-color: ##696969;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -99,7 +99,7 @@ nav img {
 	font-size: 20px;
 }
 #center {
-	background-color:#000;
+	background-color:#696969;
 	border: 1px black solid;
 	padding: 20px;
 	width: 28%;
@@ -112,7 +112,7 @@ nav img {
 	padding: 1em 2em;
 }
 #right {
-	background-color: #000;
+	background-color: #696969;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
