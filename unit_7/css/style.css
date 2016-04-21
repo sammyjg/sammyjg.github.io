@@ -142,7 +142,8 @@ nav img {
 }
 footer {
 	position: absolute;
-	background-color:#61B329; 
+	background-color:#61B329;
+	width:100%; 
 }
 #social {
 	color: #fff;
