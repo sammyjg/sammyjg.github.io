@@ -5,4 +5,5 @@ body {
 	background-image: url(http://www.speedtheory.ca/van/files/4913/7935/6454/dauphine-photos-cycling-dark.png);
 	background-size: cover;
 	position: relative;
+	height: 100vh;
 }
