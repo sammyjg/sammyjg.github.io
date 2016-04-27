@@ -1,11 +1,4 @@
-span {
-	font-style: italic;
-	text-transform: uppercase;
-}
-#aside p {
-	padding: 85px 50px 50px 50px;
-}
-.middle {
-	width:400px;
-	height:200px;
+#hero {
+	background-image: url(http://www.speedtheory.ca/van/files/4913/7935/6454/dauphine-photos-cycling-dark.png);
+	background-size: cover;
 }
