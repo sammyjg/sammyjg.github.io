@@ -46,3 +46,6 @@ footer {
 	width: 100%;
 	background-color: #FE5A1D;
 }
+#container h6 {
+	font-size: 36px;
+}
