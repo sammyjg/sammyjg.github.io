@@ -34,7 +34,7 @@ nav img {
 	display:inline-block;
 	height:auto;
 	width:auto;
-	padding: 0 30px;
+	padding: -10 30px;
 }
 .clearfix:after {
 	visibility: hidden;
