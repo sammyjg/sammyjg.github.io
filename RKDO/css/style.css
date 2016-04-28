@@ -41,11 +41,21 @@ nav img {
 	display: block;
 	clear:both;
 }
+article h1 {
+	font-color:#fff;
+}
+article p{
+	font-size: 35px;
+	font-color: #FE5A1D;	
+}
+article span {
+	font-style: italic;
+}
 footer {
 	position: absolute;
 	width: 100%;
 	background-color: #FE5A1D;
 }
 #container h6 {
-	font-size: 36px;
+	color:#fff;
 }
