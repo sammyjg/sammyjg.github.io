@@ -13,8 +13,13 @@ body {
 nav a {
 	float:left;
 	display:inline;
-	font-size: 20px;
+	font-size: 36px;
 	font-family: 'Pacifico', cursive;
 	text-decoration: none;
 	color: #fff;
+	padding: 25px;
+}
+nav img {
+	display:inline;
+	float: left;
 }
