@@ -24,7 +24,7 @@ nav a {
 	padding: 30px;
 }
 nav a:hover {
-	font-color: #FE5A1D;
+	color: #FE5A1D;
 	text-decoration: underline;
 	cursor: auto;
 }
