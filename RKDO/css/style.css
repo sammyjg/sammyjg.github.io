@@ -39,3 +39,8 @@ nav img {
 	display: block;
 	clear:both;
 }
+footer {
+	position: absolute;
+	width: 100%;
+	background-color: #FE5A1D;
+}
