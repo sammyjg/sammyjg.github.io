@@ -23,9 +23,10 @@ nav a {
 	color: #fff;
 	padding: 30px;
 }
-nav a:hover {
-	background-color: #FE5A1D;
-	padding: 38px;
+a:-webkit-any-link {
+	color: #FE5A1D;
+	text-decoration: underline;
+	cursor: auto;
 }
 nav img {
 	display:inline-block;
