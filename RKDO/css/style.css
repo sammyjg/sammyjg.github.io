@@ -23,7 +23,7 @@ nav a {
 	color: #fff;
 	padding: 30px;
 }
-a:-webkit-any-link {
+a:hover {
 	color: #FE5A1D;
 	text-decoration: underline;
 	cursor: auto;
