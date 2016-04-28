@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 body {
 	background-image: url(http://www.speedtheory.ca/van/files/4913/7935/6454/dauphine-photos-cycling-dark.png);
-	background-size: 100%;
+	background-size: cover;
 	background-repeat: no-repeat;
 	background-color: #000;
 	display: block;
