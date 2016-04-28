@@ -14,20 +14,18 @@ nav {
 	overflow: hidden;
 }
 nav a {
-	float:left;
 	display:inline;
 	font-size: 36px;
 	font-family: 'Pacifico', cursive;
 	text-decoration: none;
 	color: #fff;
-	padding: 25px;
+	padding: 30px;
 }
 nav a:hover {
 	background-color: #FE5A1D;
 }
 nav img {
 	display:inline-block;
-	float: left;
 	height:auto;
 	width:auto;
 }
