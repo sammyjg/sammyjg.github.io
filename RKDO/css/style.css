@@ -42,16 +42,16 @@ nav img {
 	display: block;
 	clear:both;
 }
-#main h1 {
+.main h1 {
 	font-color:#fff;
 }
-#main p {
+.main p {
 	font-size: 35px;
 	font-color: #FE5A1D;
 	font-family: 'Crimson Text', serif;
 	text-align: center;	
 }
-#main span {
+.main span {
 	font-style: italic;
 	font-family: 'Crimson Text', serif;
 }
