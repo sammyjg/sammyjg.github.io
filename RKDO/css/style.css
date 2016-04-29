@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text);
 body {
 	background-image: url(http://www.speedtheory.ca/van/files/4913/7935/6454/dauphine-photos-cycling-dark.png);
-	background-size: cover;
+	background-size: contain;
 	background-repeat: no-repeat;
 	background-color: #000;
 	display: block;
@@ -42,15 +42,15 @@ nav img {
 	display: block;
 	clear:both;
 }
-article h1 {
+#main {
 	font-color:#fff;
 }
-article p{
+#main p{
 	font-size: 35px;
 	font-color: #FE5A1D;
 	font-family: 'Crimson Text', serif;	
 }
-article span {
+#main span {
 	font-style: italic;
 	font-family: 'Crimson Text', serif;
 }
