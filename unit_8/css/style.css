@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
-@import url(https://fonts.googleapis.com/css?family=Khand);
 @import url(https://fonts.googleapis.com/css?family=Rubik+Mono+One);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 
 body {
 	background-color: #000;
@@ -20,7 +20,7 @@ nav a {
 	color: #fff;
 	font-family: Georgia, Serif;
 	float:right;
-	font-size: 25px;
+	font-size: 1.6em;
 	padding: 14px 16px;
 }
 .clearfix:after {
@@ -34,7 +34,7 @@ nav a:hover {
 #donate {
 	background-color: #61B329;
 	font-family: 'Rubik Mono One', sans-serif;
-	font-size: 30px;
+	font-size: 1.9em;
 	padding: 15px;
 }
 nav img {
@@ -56,22 +56,17 @@ nav img {
 	width: 500px;
 	padding: 50px;
 }
-#container h1 {
-	color: #FFE2B8;
-	font-family: 'Khand', sans-serif;
-	text-align: center;
-	font-size: 40px;
-}
 #container p {
-	font-size: 25px;
+	font-size: 1.6em;
 	color: #fff;
 	text-align: justify;
+	padding-top: 70px;
 }
 #container form {
 	margin:auto;
 }
 #container form p {
-	font-size: 20px;
+	font-size: 1.3em;
 	color: #61B329;
 	font-family: 'Rubik Mono One', sans-serif; 
 }
@@ -81,7 +76,7 @@ nav img {
 	padding: 20px;
 }
 #left {
-	background-color: ##696969;
+	background-color: #000;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -96,14 +91,16 @@ nav img {
 }
 #left h3 {
 	color:#fff;
+	text-align: center;
 }
 #left p {
 	color:#fff;
-	font-size: 20px;
+	font-size: 1.3em;
 	text-align: justify;
+	font-family: 'Amatic SC', cursive;
 }
 #center {
-	background-color:#696969;
+	background-color:#000;
 	border: 1px black solid;
 	padding: 20px;
 	width: 28%;
@@ -119,13 +116,16 @@ nav img {
 }
 #center h3{
 	color: #fff;
+	text-align: center;
 }
 #center p {
 	color:#fff;
-	font-size: 20px;
+	font-size: 1.3em;
+	text-align: justify;
+	font-family: 'Amatic SC', cursive;
 }
 #right {
-	background-color: #696969;
+	background-color: #000;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
@@ -140,11 +140,13 @@ nav img {
 }
 #right h3 {
 	color:#fff;
+	text-align: center;
 }
 #right p {
 	color: #fff;
-	font-size: 20px;
-	text-align: justify; 
+	font-size: 1.3em;
+	text-align: justify;
+	font-family: 'Amatic SC', cursive; 
 }
 .clearfix:after {
 	visibility: hidden;
@@ -159,7 +161,12 @@ footer {
 	background-color:#61B329;
 	width:100%; 
 }
-#social {
-	color: #fff;
+#social h2 {
+	text-align: center;
+}
+#social  table {
+	float: right;
+	padding-right: 50px;
+	padding-bottom: 50px;
 }
 
