@@ -195,3 +195,47 @@ footer {
 	display:inline-block;
 }
 
+@media only screen and (max-width:1300px) {
+	#left {
+		float: none;
+		width: auto;
+	}
+}
+@media only screen and (max-width: 1300px) {
+	#center {
+		float: none;
+		width: auto;
+	}
+}
+@media only screen and (max-width: 1300px) {
+	#right {
+		float:none;
+		width:auto;
+	}
+}
+@media only screen and (max-width: 1300px) {
+	nav a {
+		float: none;
+		width: auto;
+		display:block;
+	}
+}
+@media only screen and (max-width: 1300px) {
+	#donate {
+		float:none;
+		width: auto;
+		display:block;
+	}
+}
+@media only screen and (max-width: 1300px) {
+	nav img {
+		float:none;
+		width: auto;
+		display: block;
+	}
+}
+@media only screen and (max-width: 1300px) {
+	#hero {
+		width: auto;
+	}
+}
